@@ -20,8 +20,8 @@
      os filhos dela, a minha vo ficou com medo e resolveu se divorciar com ele, depois de uns anos ele morreu por ataque do coração.</p>
     <p>minha avó materna também começou a trabalhar muito nova, não sei muito sobre ela pois ela faleceu quando eu tinha 9 anos,
      mas eu a amava.</p>
-    <p>o sobrenome Maruyama vem de origem japonesa, meu avô paterno nasceu e viveu por muitos anos no japao, e depois veio para o brasil,
-    praticamente toda a minha familia nasceu em londrina, menos minha vo paterna que nasceu no Pernambuco e meu pai que nasceu em 
+    <p>o sobrenome Maruyama vem de origem japonesa, meu avô paterno nasceu e viveu por muitos anos no japao, e depois veio para o brasil.
+    Praticamente toda a minha familia nasceu em londrina, menos minha vo paterna que nasceu no Pernambuco e meu pai que nasceu em 
     Porto Alegre.
     </p>
 </head>
